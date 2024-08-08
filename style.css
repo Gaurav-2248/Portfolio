@@ -267,7 +267,7 @@ a{
     }  
 }     
 
-.icon-zigzak{
+.icon-zigzag{
     z-index: 9;
     top:1.5rem;
     left:-0.3em;
@@ -710,3 +710,7 @@ a{
     display:flex;
     gap:1rem;
   }
+
+  /* {
+    padding-right:1em ;
+  } */
